@@ -1,0 +1,9 @@
+p.bluetext{ 
+    color: blue;
+}
+p.redtext{ 
+    color: red;
+}
+.important{
+    font-style: intalic;
+}
